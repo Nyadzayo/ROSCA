@@ -35,6 +35,15 @@ This project is a decentralized Rotating Savings and Credit Association (ROSCA) 
    # Add any other required config here
    ```
 
+## Environment Variables
+
+- `TELEGRAM_BOT_TOKEN`: Your Telegram bot token
+- `PUBLIC_BASE_URL`: The public base URL for your backend (e.g., your ngrok URL or production domain). This is used to generate authentication links for users. Example:
+  - For local development with ngrok: `PUBLIC_BASE_URL=https://your-ngrok-subdomain.ngrok-free.app`
+  - For production: `PUBLIC_BASE_URL=https://yourdomain.com`
+
+**Make sure to update this variable whenever your ngrok URL changes!**
+
 ## Running the Bot
 
 Start the bot with:
