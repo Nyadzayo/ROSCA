@@ -1,0 +1,25 @@
+{
+  "name": "uzh_telegram",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Done! Congratulations on your new bot. You will find it at t.me/rosca_uzh_bot. You can now add a description, about section and profile picture for your bot, see /help for a list of commands. By the way, when you've finished creating your cool bot, ping our Bot Support if you want a better username for it. Just make sure the bot is fully operational before you do this.",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.68.0",
+    "dotenv": "^17.2.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "typescript": "^5.8.3"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.0.0",
+    "hardhat": "^2.25.0"
+  }
+}
