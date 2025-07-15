@@ -30,8 +30,8 @@ This project is a decentralized Rotating Savings and Credit Association (ROSCA) 
 
    ```env
    TELEGRAM_BOT_TOKEN=your-telegram-bot-token-here
-   HEDERA_OPERATOR_ID=your-hedera-account-id
-   HEDERA_OPERATOR_KEY=your-hedera-private-key
+   HEDERA_OPERATOR_ID=your-hedera-account-id (Account ID)
+   HEDERA_OPERATOR_KEY=your-hedera-private-key (HEX Encoded Private Key)
    # Add any other required config here
    ```
 
