@@ -25,8 +25,6 @@ This project is a decentralized Rotating Savings and Credit Association (ROSCA) 
    ```
 3. **Add Hedera Testnet to MetaMask:**
 
-Follow these steps to add the Hedera Testnet to your MetaMask wallet:
-
    Fill in the fields with the following information:
 
    | Field               | Value                          |
