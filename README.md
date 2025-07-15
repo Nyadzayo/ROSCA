@@ -1,4 +1,3 @@
-<img width="1233" height="357" alt="image" src="https://github.com/user-attachments/assets/7578fb53-56cc-4041-ae8b-62a43b74bd60" />
 # ROSCA Telegram Bot Quickstart
 
 This project implements a decentralized Rotating Savings and Credit Association (ROSCA) bot for Telegram, powered by Hedera smart contracts and wallet authentication via MetaMask.
