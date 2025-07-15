@@ -227,4 +227,4 @@ uzh_telegram/
 
 ---
 
-> Built with 💙 by Pfano Nemakonde — Empowering DeFi for Communities
+
