@@ -23,8 +23,33 @@ This project is a decentralized Rotating Savings and Credit Association (ROSCA) 
    ```bash
    npm install
    ```
+3. **Add Hedera Testnet to MetaMask**
 
-3. **Configure environment variables:**
+A. Open MetaMask
+- Click the MetaMask extension in your browser.
+
+B. Click the Network Dropdown
+- (Top of MetaMask where it shows “Ethereum Mainnet” or other network name)
+
+C. Select “Add network” or “Add network manually”
+- Scroll down to the bottom and click Add a network manually.
+
+Enter the Hedera Testnet Network Info:
+
+Fill the form as follows:
+
+Field	Value
+
+Network Name      :	Hedera Testnet
+New RPC URL       :	https://testnet.hashio.io/api
+Chain ID          :	296
+Currency Symbol   :	HBAR
+Block Explorer URL:	https://hashscan.io/testnet
+
+D. Click Save
+- MetaMask will now switch to the Hedera Testnet network.
+
+4. **Configure environment variables:**
 
    Create a `.env` file in the project root with the following content:
 
