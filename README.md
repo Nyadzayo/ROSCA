@@ -40,13 +40,13 @@ Follow these steps to add the Hedera Testnet to your MetaMask wallet:
 
    Fill in the fields with the following information:
 
-               | Field               | Value                          |
-               |---------------------|--------------------------------|
-               | **Network Name**     | Hedera Testnet                 |
-               | **New RPC URL**      | `https://testnet.hashio.io/api`|
-               | **Chain ID**         | `296`                          |
-               | **Currency Symbol**  | `HBAR`                         |
-               | **Block Explorer URL**| `https://hashscan.io/testnet` |
+   | Field               | Value                          |
+   |---------------------|--------------------------------|
+   | **Network Name**     | Hedera Testnet                 |
+   | **New RPC URL**      | `https://testnet.hashio.io/api`|
+   | **Chain ID**         | `296`                          |
+   | **Currency Symbol**  | `HBAR`                         |
+   | **Block Explorer URL**| `https://hashscan.io/testnet` |
 
    **E. Click Save**
    - MetaMask will now connect to the Hedera Testnet network.
