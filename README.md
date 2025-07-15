@@ -27,16 +27,16 @@ This project is a decentralized Rotating Savings and Credit Association (ROSCA) 
 
 Follow these steps to add the Hedera Testnet to your MetaMask wallet:
 
-   ### A. Open MetaMask
+   A. Open MetaMask
    - Click the MetaMask extension in your browser.
 
-   **B. Click the Network Dropdown**
+   B. Click the Network Dropdown
    - This is located at the top of MetaMask where it displays "Ethereum Mainnet" or another network name.
 
-   **C. Select “Add network” or “Add a network manually”**
+   C. Select “Add network” or “Add a network manually”
    - Scroll to the bottom of the network list and click **Add a network manually**.
 
-   **D. Enter the Hedera Testnet Network Info**
+   D. Enter the Hedera Testnet Network Info
 
    Fill in the fields with the following information:
 
@@ -48,7 +48,7 @@ Follow these steps to add the Hedera Testnet to your MetaMask wallet:
    | **Currency Symbol**  | `HBAR`                         |
    | **Block Explorer URL**| `https://hashscan.io/testnet` |
 
-   **E. Click Save**
+   E. Click Save
    - MetaMask will now connect to the Hedera Testnet network.
 
 
