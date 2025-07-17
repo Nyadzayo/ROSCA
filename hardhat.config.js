@@ -8,6 +8,9 @@ module.exports = {
     testnet: {
       url: process.env.TESTNET_ENDPOINT,
       accounts: [process.env.TESTNET_OPERATOR_PRIVATE_KEY],
+      
     },
+    
   },
+  settings: { optimizer: { enabled: true, runs: 200 } }
 };

@@ -8,7 +8,7 @@ const path = require('path');
 
 
 const factoryArtifact = require('./artifacts/contracts/ROSCAFactory.sol/ROSCAFactory.json');
-const groupArtifact = require('./artifacts/contracts/ROSCAFactory.sol/ROSCAGroup.json');
+const groupArtifact = require('./artifacts/contracts/ROSCAGroup.sol/ROSCAGroup.json');
 
 const FACTORY_ABI = factoryArtifact.abi;
 const GROUP_ABI = groupArtifact.abi;
@@ -396,7 +396,7 @@ bot.onText(/\/help/, (msg) => {
         "2. Everyone contributes each cycle\n" +
         "3. One person receives all contributions (payout)\n" +
         "4. Continues until everyone has received a payout\n\n" +
-        "Questions? Contact @your_support_handle"
+        "Questions? Contact @kelvin.nyadzayo16@gmail.com"
     );
 });
 
