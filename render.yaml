@@ -6,5 +6,5 @@ services:
     buildCommand: npm install --legacy-peer-deps
     startCommand: node app.js
     envVars:
-      - key: NODE_ENV
+      - key: APP_ENV
         value: production
