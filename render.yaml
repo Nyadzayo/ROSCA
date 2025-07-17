@@ -5,7 +5,7 @@ services:
     plan: free
     buildCommand: |
       npm install
-      npm run compile
+      npx hardhat compile
     startCommand: npm start
     envVars:
       - key: APP_ENV
